@@ -15,8 +15,8 @@
 	border:1px solid black;
 }
 
-span{
-	display:block;
+.author{
+
 	text-align:right;
 	font-style:italic;
 }
